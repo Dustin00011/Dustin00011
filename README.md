@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning python and some basics of computer security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email-goyamjain@gmail.com
+- 📫 How to reach me goyamjain1976@gmail.com
 
 <!---
 Dustin00011/Dustin00011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
