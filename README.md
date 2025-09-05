@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dustin00011
-- 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning python and some basics of computer security
+- 👀 I’m interested in programming and AIML
+- 🌱I'm currently pursuing my btech computer science from UPES Dehrahun
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me goyamjain1976@gmail.com
 
