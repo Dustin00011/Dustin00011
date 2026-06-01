@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dustin00011
+- 👋 Hi, I’m Goyam Jain
 - 👀 I’m interested in programming and AIML
 - 🌱I'm currently pursuing my btech computer science from UPES Dehrahun
 - 💞️ I’m looking to collaborate on ...
